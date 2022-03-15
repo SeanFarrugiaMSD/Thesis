@@ -10,3 +10,6 @@
 /**/Model/*.prototxt.txt
 /**/Model/*.cfg
 /**/Model/*.weights
+/**/Dataset/*.mp4
+/**/cam1/*.mp4
+/**/cam2/*.mp4
